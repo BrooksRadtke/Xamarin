@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\bin\Debug\netstandard2.0\LabelTutorial.deps.json
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\bin\Debug\netstandard2.0\LabelTutorial.dll
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\bin\Debug\netstandard2.0\ref\LabelTutorial.dll
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\bin\Debug\netstandard2.0\LabelTutorial.pdb
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\LabelTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\LabelTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\LabelTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\LabelTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\LabelTutorial.dll
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\ref\LabelTutorial.dll
+C:\Users\brook\Desktop\LabelTutorial\LabelTutorial\LabelTutorial\obj\Debug\netstandard2.0\LabelTutorial.pdb

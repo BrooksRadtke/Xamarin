@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.deps.json
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.dll
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\ref\StackLayoutTutorial.dll
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\bin\Debug\netstandard2.0\StackLayoutTutorial.pdb
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.dll
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\ref\StackLayoutTutorial.dll
+C:\Users\brook\Desktop\StackLayoutTutorial\StackLayoutTutorial\StackLayoutTutorial\obj\Debug\netstandard2.0\StackLayoutTutorial.pdb

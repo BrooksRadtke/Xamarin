@@ -1,0 +1,17 @@
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\Views\NoteEntryPage.xaml.g.cs
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\Views\NotesPage.xaml.g.cs
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.AssemblyInfo.cs
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.dll
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\ref\NotesApp.dll
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\NotesApp.pdb
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.deps.json
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.dll
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\ref\NotesApp.dll
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\bin\Debug\netstandard2.0\NotesApp.pdb
+C:\Users\brook\Desktop\NotesApp\NotesApp\NotesApp\obj\Debug\netstandard2.0\XamlC.stamp

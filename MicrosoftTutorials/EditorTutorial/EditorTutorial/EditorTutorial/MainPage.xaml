@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EditorTutorial.MainPage">
+
+    <StackLayout Margin="20, 35, 20, 25">
+        <Editor Placeholder="Enter multi-line text here:"
+                AutoSize="TextChanges"
+                MaxLength="200"
+                IsSpellCheckEnabled="False"
+                IsTextPredictionEnabled="False"/>
+    </StackLayout>
+
+</ContentPage>

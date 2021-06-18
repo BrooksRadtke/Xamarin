@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\bin\Debug\netstandard2.0\CollectionViewTutorial.deps.json
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\bin\Debug\netstandard2.0\CollectionViewTutorial.dll
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\bin\Debug\netstandard2.0\ref\CollectionViewTutorial.dll
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\bin\Debug\netstandard2.0\CollectionViewTutorial.pdb
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.dll
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\ref\CollectionViewTutorial.dll
+C:\Users\brook\Desktop\CollectionViewTutorial\CollectionViewTutorial\CollectionViewTutorial\obj\Debug\netstandard2.0\CollectionViewTutorial.pdb

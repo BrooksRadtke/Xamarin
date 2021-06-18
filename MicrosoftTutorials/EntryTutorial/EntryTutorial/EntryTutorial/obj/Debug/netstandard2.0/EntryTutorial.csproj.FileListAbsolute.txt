@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\bin\Debug\netstandard2.0\EntryTutorial.deps.json
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\bin\Debug\netstandard2.0\EntryTutorial.dll
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\bin\Debug\netstandard2.0\ref\EntryTutorial.dll
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\bin\Debug\netstandard2.0\EntryTutorial.pdb
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.dll
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\ref\EntryTutorial.dll
+C:\Users\brook\Desktop\EntryTutorial\EntryTutorial\EntryTutorial\obj\Debug\netstandard2.0\EntryTutorial.pdb

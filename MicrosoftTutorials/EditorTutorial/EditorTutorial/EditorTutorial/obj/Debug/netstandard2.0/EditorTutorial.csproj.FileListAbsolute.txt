@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\bin\Debug\netstandard2.0\EditorTutorial.deps.json
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\bin\Debug\netstandard2.0\EditorTutorial.dll
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\bin\Debug\netstandard2.0\ref\EditorTutorial.dll
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\bin\Debug\netstandard2.0\EditorTutorial.pdb
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.dll
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\ref\EditorTutorial.dll
+C:\Users\brook\Desktop\EditorTutorial\EditorTutorial\EditorTutorial\obj\Debug\netstandard2.0\EditorTutorial.pdb

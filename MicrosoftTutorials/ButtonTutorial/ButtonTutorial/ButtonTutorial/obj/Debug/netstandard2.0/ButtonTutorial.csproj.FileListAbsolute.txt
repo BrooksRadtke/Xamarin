@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\bin\Debug\netstandard2.0\ButtonTutorial.deps.json
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\bin\Debug\netstandard2.0\ButtonTutorial.dll
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\bin\Debug\netstandard2.0\ref\ButtonTutorial.dll
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\bin\Debug\netstandard2.0\ButtonTutorial.pdb
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\ButtonTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\ButtonTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\ButtonTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\ButtonTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\ButtonTutorial.dll
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\ref\ButtonTutorial.dll
+C:\Users\brook\Desktop\ButtonTutorial\ButtonTutorial\ButtonTutorial\obj\Debug\netstandard2.0\ButtonTutorial.pdb

@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\bin\Debug\netstandard2.0\ImageTutorial.deps.json
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\bin\Debug\netstandard2.0\ImageTutorial.dll
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\bin\Debug\netstandard2.0\ref\ImageTutorial.dll
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\bin\Debug\netstandard2.0\ImageTutorial.pdb
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.dll
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ref\ImageTutorial.dll
+C:\Users\brook\Desktop\ImageTutorial\ImageTutorial\ImageTutorial\obj\Debug\netstandard2.0\ImageTutorial.pdb
