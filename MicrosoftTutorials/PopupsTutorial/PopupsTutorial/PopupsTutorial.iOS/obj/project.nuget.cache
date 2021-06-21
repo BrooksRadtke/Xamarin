@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgjygj99G204Y/suyyhwMa4pmwgOs7Z0wtBNRNL2dJNvm58mAUCZtFy3XOPV++/91n7Y8OQ1al0Va8ffpzoy9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brook\\Desktop\\PopupsTutorial\\PopupsTutorial\\PopupsTutorial.iOS\\PopupsTutorial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brook\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

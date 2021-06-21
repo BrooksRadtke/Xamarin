@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.deps.json
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.dll
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\ref\AppLifecycleTutorial.dll
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\bin\Debug\netstandard2.0\AppLifecycleTutorial.pdb
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.dll
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\ref\AppLifecycleTutorial.dll
+C:\Users\brook\Desktop\AppLifecycleTutorial\AppLifecycleTutorial\AppLifecycleTutorial\obj\Debug\netstandard2.0\AppLifecycleTutorial.pdb

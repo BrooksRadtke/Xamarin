@@ -1,0 +1,14 @@
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\bin\Debug\netstandard2.0\PopupsTutorial.deps.json
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\bin\Debug\netstandard2.0\PopupsTutorial.dll
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\bin\Debug\netstandard2.0\ref\PopupsTutorial.dll
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\bin\Debug\netstandard2.0\PopupsTutorial.pdb
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.csproj.AssemblyReference.cache
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.AssemblyInfoInputs.cache
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.AssemblyInfo.cs
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.csproj.CoreCompileInputs.cache
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.dll
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\ref\PopupsTutorial.dll
+C:\Users\brook\Desktop\PopupsTutorial\PopupsTutorial\PopupsTutorial\obj\Debug\netstandard2.0\PopupsTutorial.pdb
